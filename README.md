@@ -4,6 +4,7 @@
 
 ## VPN的选择
 使用VPN在后续的安装中会更加轻松，避免了很多问题
+
 Clash Verge
 
 https://github.com/Clash-Verge-rev/clash-verge-rev/releases
@@ -25,7 +26,9 @@ https://www.clashverge.dev/faq/linux.html
 需要安装的依赖有下面两个
 
 https://github.com/clash-verge-rev/clash-verge-rev/releases/download/dependencies/libwebkit2gtk-4.0-37_2.43.3-1_amd64.deb
+
 https://github.com/clash-verge-rev/clash-verge-rev/releases/download/dependencies/libjavascriptcoregtk-4.0-18_2.43.3-1_amd64.deb
 
 依赖安装命令
+
 sudo apt install ./libwebkit2gtk-4.0-37_2.43.3-1_amd64.deb ./libjavascriptcoregtk-4.0-18_2.43.3-1_amd64.deb
