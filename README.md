@@ -15,11 +15,11 @@ https://github.com/Clash-Verge-rev/clash-verge-rev/releases
 
 sudo dpkg -i clash-verge_1.7.7_amd64.deb
 
-安装可能会出现问题，如果有问题就安装gedbi这个软件包安装程序，利用这个软件包来安装这个软件，命令也是一样
+！！！注意:安装可能会出现问题，如果有问题就安装gedbi这个软件包安装程序，利用这个软件包来安装这个软件，命令也是一样
 
 
 ### Ubuntu24.04版本无法正常安装
-额外安装需要的依赖，先安装完依赖再安装Clash Verge，最难受的一点就是这个依赖也需要通过外网下载，所以我直接把依赖下好供你们快速使用。
+额外安装需要的依赖，先安装完依赖再安装Clash Verge，最难受的一点就是这个依赖也需要通过外网下载。
 
 https://www.clashverge.dev/faq/linux.html
 
