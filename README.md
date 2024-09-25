@@ -32,3 +32,8 @@ https://github.com/clash-verge-rev/clash-verge-rev/releases/download/dependencie
 依赖安装命令
 
 sudo apt install ./libwebkit2gtk-4.0-37_2.43.3-1_amd64.deb ./libjavascriptcoregtk-4.0-18_2.43.3-1_amd64.deb
+
+## 武器化工具
+
+后续我将制作脚本可以一键安装，以剩下更多的时间用于完成其他事情。
+
