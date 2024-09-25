@@ -37,3 +37,8 @@ sudo apt install ./libwebkit2gtk-4.0-37_2.43.3-1_amd64.deb ./libjavascriptcoregt
 
 后续我将制作脚本可以一键安装，以剩下更多的时间用于完成其他事情。
 
+### 脚本中包含那些工具
+
+端口扫描工具：Nmap、Masscan
+横向移动工具：CrackMapExec
+额外工具：httpx
